@@ -1,0 +1,118 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px, 
+    line-height: 1.5;
+
+}
+
+h1 {
+font-family: 'Montagu Slab', serif;
+}
+
+h3 {
+ text-align: center;   
+}
+
+h4 {
+    align-items: center;
+    text-align: center;   
+    font-size: 25px; 
+    padding: 10px;
+    color: whitesmoke;
+    background-color: #581F18 ;
+    width: fit-content ;
+    border: 5px solid #000000;
+    margin: 0 auto;
+ 
+}
+
+.parteDeCima {
+background-color: #F18805;
+width: 100%;
+box-sizing: border-box;
+border: 15px solid #581F18;
+padding: 50px;
+margin: 0 auto;
+text-align: center;
+font-size: 30 px;
+line-height: 1.5;
+/* 0=top and bottom auto= left and right */
+}
+
+.ituveravaDentroDoPadding {
+    padding: 20px, 20px;
+    text-align: center;
+    font-size: 40px;
+}
+
+  
+.curiosidadesLista {
+    width: 100%;
+    margin: 65px auto;
+    box-sizing: border-box;
+    border: 15px solid #44150f;
+    background-color: #f8a034;
+    padding: 40px;
+    text-align: justify;
+    font-size: 30 px;
+    line-height: 2.0;
+   
+    
+    
+}
+
+.oVideo{
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%;
+    
+}
+
+.videoResponsivo{
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+
+}
+
+.oMeio  {
+background-image: url("/imagens/fundo_terra.jpg");
+background-size: cover;
+width: 100%;
+box-sizing: border-box;
+padding: 50px;
+margin: 0 auto;
+}
+
+
+footer {
+background-color: #3f4e85 ;
+width: 100%;
+box-sizing:border-box;
+padding: 50px;
+margin: 0 auto;
+}
+
+.imagensContato {
+
+    margin: 10 auto;
+    margin: 15px;
+    text-align: center;
+    line-height: 4.5;
+    padding: 15px;
+  
+}
+
+
+.smallFinal{
+    font-size: 10px; 
+    color: whitesmoke;
+    float: right;
+ 
+    
+}
